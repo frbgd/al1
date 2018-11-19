@@ -1,0 +1,4 @@
+﻿  typescplusplus.cpp
+c:\users\kap17\source\repos\typescplusplus\typescplusplus\typescplusplus.cpp(35): warning C4215: нестандартное расширение: long float
+c:\users\kap17\source\repos\typescplusplus\typescplusplus\typescplusplus.cpp(36): warning C4215: нестандартное расширение: long float
+  typescplusplus.vcxproj -> C:\Users\kap17\source\repos\typescplusplus\Debug\typescplusplus.exe

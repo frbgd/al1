@@ -1,0 +1,3 @@
+﻿  al-l1-e1.cpp
+c:\users\kap17\source\repos\al-l1-e1\al-l1-e1\al-l1-e1.cpp(11): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  al-l1-e1.vcxproj -> c:\Users\kap17\source\repos\al-l1-e1\Debug\al-l1-e1.exe

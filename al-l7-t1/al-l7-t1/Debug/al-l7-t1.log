@@ -1,0 +1,8 @@
+﻿  al-l7-t1.cpp
+c:\users\kap17\source\repos\al-l7-t1\al-l7-t1\al-l7-t1.cpp(26): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "int **"
+c:\users\kap17\source\repos\al-l7-t1\al-l7-t1\al-l7-t1.cpp(27): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "int **"
+c:\users\kap17\source\repos\al-l7-t1\al-l7-t1\al-l7-t1.cpp(28): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "int **"
+c:\users\kap17\source\repos\al-l7-t1\al-l7-t1\al-l7-t1.cpp(37): warning C4477: "fprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "int *"
+c:\users\kap17\source\repos\al-l7-t1\al-l7-t1\al-l7-t1.cpp(37): warning C4477: "fprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "int *"
+c:\users\kap17\source\repos\al-l7-t1\al-l7-t1\al-l7-t1.cpp(37): warning C4477: "fprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "4" имеет тип "int *"
+  al-l7-t1.vcxproj -> C:\Users\kap17\source\repos\al-l7-t1\Debug\al-l7-t1.exe

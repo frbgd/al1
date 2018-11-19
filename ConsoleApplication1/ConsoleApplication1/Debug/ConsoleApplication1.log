@@ -1,0 +1,4 @@
+﻿cl : командная строка warning D9025: переопределение "/sdl" на "/GS-"
+  ConsoleApplication1.cpp
+c:\users\kap17\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(10): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication1.vcxproj -> c:\users\kap17\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe

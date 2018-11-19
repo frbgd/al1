@@ -1,0 +1,3 @@
+﻿  al-l2.cpp
+c:\users\kap17\source\repos\al-l2\al-l2\al-l2.cpp(60): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  al-l2.vcxproj -> c:\Users\kap17\source\repos\al-l2\Debug\al-l2.exe
